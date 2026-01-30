@@ -1,0 +1,5 @@
+{
+  "name": "GoldSight AI - Prediction Dashboard",
+  "description": "A comprehensive dashboard for Gold Price analysis, simulating the prediction system architecture including macro-analysis, technical indicators, and AI-driven market sentiment.",
+  "requestFramePermissions": []
+}
